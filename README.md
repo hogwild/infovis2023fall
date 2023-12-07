@@ -14,7 +14,7 @@ Please complete the review by this Friday (Dec 10), Shanghai time. Thank you.
 
 Also, you may [click here](https://docs.google.com/spreadsheets/d/1ugQ-qJtL-AKNzLPPcTmI0MIkntwdHXonTe_cnVhUzM8/edit?usp=sharing){:target="_blank"} to get the whole list of projects. 
 
-## [Team 1: UEFA Champions League - a visual narrative](./team1/vediogame.html){:target="_blank"} 
+## [Team 1: UEFA Champions League - a visual narrative](./team1/index.html){:target="_blank"} 
 - Authors: Mohamed Hendy, Dany Sigha
 - [Review the work](https://forms.gle/2SgoZAaPjRpVjnJK7){:target="_blank"} 
 
