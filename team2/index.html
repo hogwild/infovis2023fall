@@ -1,0 +1,73 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="shortcut icon" href="#">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="//d3js.org/d3.v6.min.js" charset="utf-8"></script>
+    <!--<script src="//d3js.org/queue.v1.min.js"></script>-->
+    <script src="js/threejs/three.min.js"></script>
+    <script src="js/threejs/controls/OrbitControls.js"></script>
+    <script src="js/threejs/renderers/Projector.js"></script>
+    <script src="js/threejs/loaders/OBJLoader.js"></script>
+    <script src="js/main.js"></script>
+    <link rel="stylesheet" href="css/styles.css">
+    <title>Brain Connectivity Visualization</title>
+  </head>
+
+    <!-- Toolbar -->
+    <header>
+      <h1>Brain Connectivity Visualization</h1>
+    </header>
+
+    <body>
+      <!-- Main Content Wrapper -->
+      <div class="main-content">
+          <!-- Left Side Content -->
+          <div class="left-content">
+              <!-- Relatively Positioned Container -->
+              <div id="three_container"></div>
+              <!-- Network SVG below the Container -->
+              <div class="card" style = "margin-left: 160px;">
+                    Select node: <select id="node_selector" style="width: 180px;"></select>
+                <svg id='edge_info'></svg>
+            </div>
+
+
+
+          </div>
+          <!-- Right Side Content -->
+          <div id="bar_container">
+              <!-- Content of bar_container -->
+              <div class = "card" style="font-family: 'Arial', sans-serif; color: #333; margin-right: 230px">
+                <p style="margin-left: 20px; font-weight: bold; font-size: 18px;">
+                Welcome to our interactive exploration of the human
+                brain's connectivity network!
+                </p>
+                <p style="margin: 20px; font-size: 16px; line-height: 1.6;">
+                This project represents a 
+                simplified visualization of the complex connectivity in
+                a human brain. Note that connectivities are in vector forms.
+                By directly hovering the mouse on the main 3-d brain, you
+                can see how one node projects information to 
+                and receives information from other nodes. By
+                utilizing the subplots, you are also allowed to explore how 
+                each node's source property is differ from target property,
+                as well as the connection strength between certain nodes.
+                </p>
+            </div>
+            
+            <svg id='source_bar' class="card" ></svg>
+            <svg id='target_bar' class="card" ></svg>
+            <div class="card">
+              <p style="margin-left: 20px; font-weight: bold; font-size: 16px;">
+                Connectivity chord graph 
+              </p>
+              <svg id='network'></svg>
+            </div>
+              </span>
+              </div> 
+          </div>
+      </div>
+  </body>
+</html>
