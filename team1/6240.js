@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkassignment_5=self.webpackChunkassignment_5||[]).push([[6240],{6240:(s,e,n)=>{n.r(e),n.d(e,{default:()=>t});const t=n.p+"images/fc-lorient.png"}}]);

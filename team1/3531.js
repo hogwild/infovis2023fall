@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkassignment_5=self.webpackChunkassignment_5||[]).push([[3531],{3531:(s,e,a)=>{a.r(e),a.d(e,{default:()=>n});const n=a.p+"images/rayo-vallecano.png"}}]);

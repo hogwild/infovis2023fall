@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkassignment_5=self.webpackChunkassignment_5||[]).push([[8834],{8834:(s,e,n)=>{n.r(e),n.d(e,{default:()=>a});const a=n.p+"images/burnley.png"}}]);

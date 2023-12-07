@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkassignment_5=self.webpackChunkassignment_5||[]).push([[610],{610:(s,e,a)=>{a.r(e),a.d(e,{default:()=>n});const n=a.p+"images/sampdoria.png"}}]);

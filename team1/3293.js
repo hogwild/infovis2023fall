@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkassignment_5=self.webpackChunkassignment_5||[]).push([[3293],{3293:(e,s,a)=>{a.r(s),a.d(s,{default:()=>n});const n=a.p+"images/deportivo-alavez.png"}}]);

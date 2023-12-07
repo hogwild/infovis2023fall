@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkassignment_5=self.webpackChunkassignment_5||[]).push([[6212],{6212:(s,e,n)=>{n.r(e),n.d(e,{default:()=>a});const a=n.p+"images/rc-lens.png"}}]);

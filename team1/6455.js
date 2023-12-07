@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkassignment_5=self.webpackChunkassignment_5||[]).push([[6455],{6455:(e,s,n)=>{n.r(s),n.d(s,{default:()=>a});const a=n.p+"images/moenchengladbach.png"}}]);

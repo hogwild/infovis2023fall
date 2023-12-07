@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkassignment_5=self.webpackChunkassignment_5||[]).push([[7706],{7706:(s,e,a)=>{a.r(e),a.d(e,{default:()=>n});const n=a.p+"images/real-sociedad.png"}}]);

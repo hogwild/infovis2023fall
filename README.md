@@ -14,35 +14,47 @@ Please complete the review by this Friday (Dec 10), Shanghai time. Thank you.
 
 Also, you may [click here](https://docs.google.com/spreadsheets/d/1ugQ-qJtL-AKNzLPPcTmI0MIkntwdHXonTe_cnVhUzM8/edit?usp=sharing){:target="_blank"} to get the whole list of projects. 
 
-## [Team 1: Video Games Sales Analysis](./team1/vediogame.html){:target="_blank"} 
-- Authors: Ran Xu, Yuchen Zhou
-- [Review the work](https://forms.gle/AnoaKrfpB1MJMBcFA){:target="_blank"} 
+## [Team 1: UEFA Champions League - a visual narrative](./team1/vediogame.html){:target="_blank"} 
+- Authors: Mohamed Hendy, Dany Sigha
+- [Review the work](https://forms.gle/2SgoZAaPjRpVjnJK7){:target="_blank"} 
 
-## [Team 2: Does Vaccination Work?](./team2/index.html){:target="_blank"} 
-- Authors: Shixuan Zheng, Scott Ye, Chengyu Zhang 
-- [Review the work](https://forms.gle/k4E8zAZ87NQyvtj28){:target="_blank"}
+## [Team 2: Task-specific Functional Connectivity in Brain](./team2/index.html){:target="_blank"} 
+- Authors: Shanglin Yang, James Chen 
+- [Review the work](https://forms.gle/ir4vuhWcUWdnHVTw5){:target="_blank"}
 
-## [Team 3: Where To Find The Protein?](./team3/index.html){:target="_blank"} 
-- Authors: Ivana Li, Tianqing Yu 
-- [Review the work](https://forms.gle/QqkaqkmVqa9CjbPh7){:target="_blank"}
+## [Team 3: The Cost of Winning: Examining the Relationship between Spending and Winning Football](./team3/index.html){:target="_blank"} 
+- Authors: Akhmed Adzhavi, Gabriel Calderaro
+- [Review the work](https://forms.gle/d8ymW7vvAuBn8zVq6){:target="_blank"}
 
-## [Team 4: A Visualization of World Cup](./team4/mainpage/fp.html){:target="_blank"} 
-- Authors: Zhenwen Zhang, Haohai Pang, Xiangjian Wu
-- [Review the work](https://forms.gle/TqzQG8DjAWLujmHDA){:target="_blank"}
+## [Team 4: Fake GPS in Gojek Application](./team4/mainpage/fp.html){:target="_blank"} 
+- Authors: Derico Dehnielsen, Jae Gao, Vincent Lian
+- [Review the work](https://forms.gle/cAfysGVSD3w64BCE9){:target="_blank"}
 
-## [Team 5: Why People Die?](./team5/index.html){:target="_blank"} 
-- Authors: Zhinuo Wang, Hongjin Zhu 
-- [Review the work](https://forms.gle/LKe4Cnh6ZeHqX89e6){:target="_blank"}
+## [Team 5: Get the best deal for your Airbnb](./team5/index.html){:target="_blank"} 
+- Authors: Minjae Lee, Sean Yoo
+- [Review the work](https://forms.gle/J5du55iZxXPU4jw99){:target="_blank"}
 
-## [Team 6: Regional Gross Product And Garbage Disposal Volume In China](./team6/index.html){:target="_blank"} 
-- Authors: Penghao Weng, Yishan Chen
-- [Review the work](https://forms.gle/HsWPUVVbCAEXS6AfA){:target="_blank"}
+## [Team 6: Visualizing Darknet Traffic Patterns](./team6/index.html){:target="_blank"} 
+- Authors: Chole Baater
+- [Review the work](https://forms.gle/78JRBKw8iD6KWwdn9){:target="_blank"}
 
-## [Team 7: Understanding Football Success Across Regions](./team7/index.html){:target="_blank"} 
-- Authors: Riley Whitt, Yi Wang
-- [Review the work](https://forms.gle/rZmNTSd6R1ZfjeXt5){:target="_blank"}
+## [Team 7: NBA Shooting Data Visualization](./team7/index.html){:target="_blank"} 
+- Authors: Corey Chen, Owen Jia, Wenhao Xu
+- [Review the work](https://forms.gle/QjFRDnnkoTCTkqf96){:target="_blank"}
 
-## [Team 8: Global Pandemics: Infection, Death, And Vaccination](./team8/index.html){:target="_blank"} 
-- Authors: Alivn Mo, Xingchen Cao
-- [Review the work](https://forms.gle/NsFxBcTMQNCNizNr5){:target="_blank"}
+## [Team 8: Chronicles of Intelligence: A Visual Journey Through The History and Evolution of Artificial Intelligence](./team8/index.html){:target="_blank"} 
+- Authors: Muqi Li
+- [Review the work](https://forms.gle/ebFphJUzvZHBrzUv9){:target="_blank"}
+
+## [Team 9: eCommerce Insights: Unveiling Online Shopping Trends and Patterns](./team9/index.html){:target="_blank"} 
+- Authors: Qiya Huang, Hailey Pang
+- [Review the work](https://forms.gle/Pargp8QLL5SzmfGR6){:target="_blank"}
+
+## [Team 10: Maximizing Airbnb Profits Through Location Analysis in NYC](./team10/index.html){:target="_blank"} 
+- Authors: Peter Yao, Wenbo Lu
+- [Review the work](https://forms.gle/zrtVYdaB1SFfu1ht7){:target="_blank"}
+
+## [Team 11: The Journey of Plastic: From Production to Pollution](./team11/index.html){:target="_blank"} 
+- Authors: Bisera Alchevska, Kelsey Wang
+- [Review the work](https://forms.gle/7iTHv8JThUz1aSa26){:target="_blank"}
 

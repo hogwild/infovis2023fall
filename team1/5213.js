@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkassignment_5=self.webpackChunkassignment_5||[]).push([[5213],{5213:(s,e,n)=>{n.r(e),n.d(e,{default:()=>a});const a=n.p+"images/fc-girondins-de-bordeaux.png"}}]);

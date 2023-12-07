@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkassignment_5=self.webpackChunkassignment_5||[]).push([[6165],{6165:(s,e,a)=>{a.r(e),a.d(e,{default:()=>n});const n=a.p+"images/crystal-palace.png"}}]);

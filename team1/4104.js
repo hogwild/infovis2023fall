@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkassignment_5=self.webpackChunkassignment_5||[]).push([[4104],{4104:(s,e,n)=>{n.r(e),n.d(e,{default:()=>a});const a=n.p+"images/espanyol.png"}}]);
