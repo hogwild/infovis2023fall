@@ -10,9 +10,9 @@ There are 30 points for 7 evaluation questions. Click the **Review the work** to
 - Acceptable - 1/3 of the points (if applicable)
 - No good - no points
 
-Please complete the review by this Friday (May 12), Shanghai time. Thank you.
+Please complete the review by this Friday (Dec 10), Shanghai time. Thank you.
 
-Also, you may [click here](https://docs.google.com/spreadsheets/d/1vc1nMsNyUHo0PTrQ5dQWfy8lMZJwz4pnNeK5VVnkSWU/edit?usp=sharing){:target="_blank"} to get the whole list of projects. 
+Also, you may [click here](https://docs.google.com/spreadsheets/d/1ugQ-qJtL-AKNzLPPcTmI0MIkntwdHXonTe_cnVhUzM8/edit?usp=sharing){:target="_blank"} to get the whole list of projects. 
 
 ## [Team 1: Video Games Sales Analysis](./team1/vediogame.html){:target="_blank"} 
 - Authors: Ran Xu, Yuchen Zhou
