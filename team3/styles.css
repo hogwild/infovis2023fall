@@ -1,0 +1,137 @@
+body {
+    background-image: url('images/bg.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+    background: url('images/banner.png') center center/cover no-repeat;
+    font-family: 'Monaco', monospace;
+    color: #ffffff;
+    text-align: center;
+    background-size: 118%;
+    font-size: 23px;
+    margin-bottom: 100px;
+}
+
+h2 {
+    background: url('images/banner.png') center center/cover no-repeat;
+    font-family: 'Monaco', monospace;
+    color: #ffffff;
+    text-align: center;
+    background-size: 70%;
+}
+
+.transfer-container {
+    position: relative;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    overflow: hidden;
+    width: 20%;
+    height: 300px;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+.background-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.background-image {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.text-container {
+    font-family: 'Monaco', monospace;
+    position: absolute;
+    top: 83%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.player-name-container {
+    font-family: 'Monaco', monospace;
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+.player-image{
+    max-width: 120px; 
+    max-height: 120px; 
+    border-radius: 50%;
+    position: absolute;
+    top: 43%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+
+.fromclub-logo {
+    width: 45px; 
+    height: 45px; 
+    border-radius: 10%;
+    position: absolute;
+    top: 65%;
+    left: 25%;
+}
+
+.toclub-logo {
+    width: 45px; 
+    height: 45px; 
+    border-radius: 10%;
+    position: absolute;
+    top: 65%;
+    left: 60%;
+}
+
+.arrow {
+    max-width: 45px; 
+    max-height: 45px; 
+    border-radius: 50%;
+    position: absolute;
+    top: 65%;
+    left: 43%;
+}
+
+.parent-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+div.tooltip {
+    position: absolute;
+    text-align: center;
+    width: 80px;
+    height: 40px;
+    padding: 2px;
+    font: 12px sans-serif;
+    background: rgb(243, 22, 22);
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
+  }
+
+  .map-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+  

@@ -1,0 +1,14 @@
+player_name,player_logo,club_from,club_from_logo,club_to,club_to_logo,year,fee
+Neymar,neymar.png,Barcelona,barcelona.png,PSG,psg.png,2017,222
+Kylian Mbappe,mbappe.png,Monaco,monaco.png,PSG,psg.png,2017,180
+Joao Felix,felix.png,Benfica,benfica.png,Atletico Madrid,atletico.png,2019,126
+Enzo Fernandez,enzo.png,Benfica,benfica.png,Chelsea,chelsea.png,2023,121
+Philippe Coutinho,coutinho.png,Liverpool,liverpool.png,Barcelona,barcelona.png,2018,160
+Moises Caicedo,caicedo.png,Brighton,brighton.png,Chelsea,chelsea.png,2023,134.5
+Declan Rice,declan.png,West Ham,westham.png,Arsenal,arsenal.png,2023,123
+Antoine Griezmann,griezmann.png,Atletico Madrid,atletico.png,Barcelona,barcelona.png,2019,120
+Jack Grealish,jack.png,Aston Villa,astonvilla.png,Manchester City,mancity.png,2021,117
+Romelu Lukaku,lukaku.png,Inter,inter.png,Chelsea,chelsea.png,2021,115
+# Note: fee is in millions of Euros
+# Source: https://www.goal.com/en/news/100-most-expensive-football-transfers-all-time/ikr3oojohla51fh9adq3qkwpu
+
