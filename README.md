@@ -27,7 +27,7 @@ Also, you may [click here](https://docs.google.com/spreadsheets/d/1ugQ-qJtL-AKNz
 - Authors: Akhmed Adzhavi, Gabriel Calderaro
 - [Review the work](https://forms.gle/d8ymW7vvAuBn8zVq6){:target="_blank"}
 
-## [Team 4: Fake GPS in Gojek Application](./team4/mainpage/fp.html){:target="_blank"} 
+## [Team 4: Fake GPS in Gojek Application](./team4/index.html){:target="_blank"} 
 - Authors: Derico Dehnielsen, Jae Gao, Vincent Lian
 - [Review the work](https://forms.gle/cAfysGVSD3w64BCE9){:target="_blank"}
 
