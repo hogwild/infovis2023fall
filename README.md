@@ -11,7 +11,7 @@ There are 30 points for 7 evaluation questions. Click the **Review the work** to
 - No good - no points
 
 
-Please complete the review by this Friday (Dec 10), Shanghai time. Thank you.
+Please complete the review by this Friday (Dec 8), Shanghai time. Thank you.
 
 Also, you may [click here](https://docs.google.com/spreadsheets/d/1ugQ-qJtL-AKNzLPPcTmI0MIkntwdHXonTe_cnVhUzM8/edit?usp=sharing){:target="_blank"} to get the whole list of projects. 
 
